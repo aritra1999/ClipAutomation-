@@ -1,6 +1,6 @@
 # ClipAutomation
 
-## Steps
+## Instructions 
 1. Add your raw files to the `Data` directory.
 2. Add your Cliping durations to the `data.json` file. 
 3. Run the script using
